@@ -7,21 +7,7 @@ img {
     
 }
 
-html, body {
-    height: 100%;
-}
-
-html {
-    display: table;
-    margin: auto;
-}
-
-body {
-    display: table-cell;
-    vertical-align: middle;
-}
-
 .btn-primary {
     position: relative;
-    top: 13rem;
+    top: 5rem;
 }
