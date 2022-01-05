@@ -1,0 +1,27 @@
+nav {
+    background-color: rgba(140, 140, 140, .6);
+}
+
+img {
+    color: white;
+    
+}
+
+html, body {
+    height: 100%;
+}
+
+html {
+    display: table;
+    margin: auto;
+}
+
+body {
+    display: table-cell;
+    vertical-align: middle;
+}
+
+.btn-primary {
+    position: relative;
+    top: 13rem;
+}
